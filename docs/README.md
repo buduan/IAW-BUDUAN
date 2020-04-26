@@ -6,7 +6,7 @@
 文档Github地址：[https://github.com/buduan/My-PHP-s-Road/](https://github.com/buduan/My-PHP-s-Road/)  
 也欢迎感兴趣的去我博客[BUDUAN BLOG](https://461blog.cn)转转~
 ### 对这个文档有疑问？{docsify-ignore}
-欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/My-PHP-s-Road/)一下  
+欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/My-PHP-s-Road/issue)一下  
 
 ## 了解与安装
 
