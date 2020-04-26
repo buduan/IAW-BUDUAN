@@ -3,7 +3,8 @@
 本人QQ：2393982461 欢迎随时骚扰！  
 这个教程对应的思维导图链接：（制作中）  
 这个思维导图也是我学习的一个过程，可以作为初学PHP的一个顺序参考。  
-文档Github地址：[https://github.com/buduan/My-PHP-s-Road/](https://github.com/buduan/My-PHP-s-Road/)  
+文档Github地址：  
+[https://github.com/buduan/My-PHP-s-Road/](https://github.com/buduan/My-PHP-s-Road/)  
 也欢迎感兴趣的去我博客[BUDUAN BLOG](https://461blog.cn)转转~
 ### 对这个文档有疑问？{docsify-ignore}
 欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/My-PHP-s-Road/issue)一下  
