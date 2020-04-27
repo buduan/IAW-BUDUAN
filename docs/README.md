@@ -10,5 +10,5 @@
 ### 对这个文档有疑问？{docsify-ignore}
 欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/My-PHP-s-Road/issues)一下  
 ### 文档列表
-* [PHP学习笔记](php)
-* [ThinkPHP学习笔记](thinkphp)
+* [PHP学习笔记](http://php.docs.461blog.cn/#/php)
+* [ThinkPHP学习笔记](http://php.docs.461blog.cn/#/thinkphp)
