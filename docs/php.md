@@ -26,13 +26,14 @@ WAMP（Windowa， Apache ，Mysql and PHP）是目前最常用的PHP开发环境
 说到编辑器这里，由于PHP的执行方式，只要你电脑里面装了开发环境，就可以运行，PHP文件即使没有编辑器，仅有一个记事本也可以编辑，只不过有了编辑器，可以使我们的开发更加顺畅。
 
 #### 安装VS Code
-VS Code是微软开发的一款代码编辑工具，这款工具是完全免费的，并且支持中文，非常适合初学者。  
-安装地址：
+VS Code是微软开发的一款代码编辑工具，这款工具是完全免费的，并且支持中文，并且支持多平台，在Windows、OS X、Linux系统中均可用，非常适合初学者。  
+安装地址：[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 #### 安装PHP Storm（付费，学生用户免费）
 后续教程中我大部分都会用这个软件来编辑。  
-PHPStorm是有Jetbrain开发的一款针对PHP开发者的一个开发集成工具(IDE)，最新版支持中文，用起来要比VS Code舒服一些，除了这款工具意外，Jetbrain还有针对其他语言的开发工具，如：Webstorm等。  
-PHPstorm安装地址：
+PHPStorm是有Jetbrain开发的一款针对PHP开发者的一个开发集成工具(IDE)，支持多平台，最新版支持中文，用起来要比VS Code舒服一些，除了这款工具以外，Jetbrain还有针对其他语言的开发工具，如：Webstorm、Pycharm等。  
+PHP Storm对学生用户或大型开源项目作者的拥有者免费授权，对普通用户采用付费授权。
+PHPstorm安装地址：[https://www.jetbrains.com/phpstorm/](https://www.jetbrains.com/phpstorm/)
 
 ## 基础
 ### PHP是什么
