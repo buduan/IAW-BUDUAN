@@ -11,4 +11,6 @@
 欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/My-PHP-s-Road/issues)一下  
 ### 文档列表
 * [PHP学习笔记](http://php.docs.461blog.cn/#/php)
+* [函数学习笔记](http://php.docs.461blog.cn/#/function)
 * [ThinkPHP学习笔记](http://php.docs.461blog.cn/#/thinkphp)
+<script>alert('因本人学业缘故，文档暂时停更至7月16日！感谢各位理解！')</script>
