@@ -1,4 +1,5 @@
 # 我学PHP的那些事儿
+**因本人学业缘故，文档暂时停更至7月16日！感谢各位理解！**
 算是一个给和我一样，热爱PHP的纯新手的一个小教程，也是我自己对于PHP学习的记录，如有不对的地方，欢迎指点。  
 本人QQ：2393982461 欢迎随时骚扰！  
 [PHP学习思维导图](https://mubu.com/doc/6sgyZcZnLg)
@@ -13,4 +14,3 @@
 * [PHP学习笔记](http://php.docs.461blog.cn/#/php)
 * [函数学习笔记](http://php.docs.461blog.cn/#/function)
 * [ThinkPHP学习笔记](http://php.docs.461blog.cn/#/thinkphp)
-<script>alert('因本人学业缘故，文档暂时停更至7月16日！感谢各位理解！')</script>
