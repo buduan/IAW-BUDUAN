@@ -23,7 +23,9 @@ WAMP（Windowa， Apache ，Mysql and PHP）是目前最常用的PHP开发环境
 ![phpinfo页面](imgs\459c25cd62f1f3bb3cdc75e3e89bf5d.png)
 
 ### 安装MAMP开发环境（For Mac）
-因为我没有Mac电脑，所以下面文字教程来源于B站视频
+在Mac电脑上面，安装一个名为MAMP PRO的应用。  
+关于MAMP的使用请参考[MAMP使用方法](http://php.docs.461blog.cn/#/mamp)
+
 ### 安装编辑器
 说到编辑器这里，由于PHP的执行方式，只要你电脑里面装了开发环境，就可以运行，PHP文件即使没有编辑器，仅有一个记事本也可以编辑，只不过有了编辑器，可以使我们的开发更加顺畅。
 
