@@ -8,23 +8,28 @@
 
 --------
 
-本人QQ：2393982461 欢迎随时骚扰！  
+作者QQ：2393982461 欢迎随时骚扰！  
 
 ### 链接
-[PHP学习思维导图](https://mubu.com/doc/6sgyZcZnLg) -幕布  
+文档相关：[PHP学习思维导图](https://mubu.com/doc/6sgyZcZnLg) -幕布  
 这个思维导图也是我学习的一个过程，可以作为初学PHP的一个顺序参考。  
 文档Github地址：  [https://github.com/buduan/IAW-BUDUAN/](https://github.com/buduan/IAW-BUDUAN/)  
-相关案例源码，我将储存到Github仓库中，需要的可以自行下载。
-也欢迎感兴趣的去我博客[BUDUAN BLOG](https://461blog.cn)转转~  
+相关案例源码，我将储存到Github仓库中，需要的可以自行下载。  
+个人博客BLOG：[不断同学 De 博客](https://461blog.cn) 
+欢迎到我博客转转^-^
+
 ### 对这个文档有疑问？{docsify-ignore}
-欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/IAW-BUDUAN/issues)一下  
+欢迎加我QQ和我聊聊，或在Github中[Issue](https://github.com/buduan/IAW-BUDUAN/issues)一下文档的问题  
+
 ### 文档列表
-* [PHP学习笔记](http://php.docs.461blog.cn/#/php)
-* [Uni-App跨平台学习笔记](http://php.docs.461blog.cn/#/uniapp)
-* [Vue学习笔记](http://php.docs.461blog.cn/#/vue)
-* [PHP函数学习笔记](http://php.docs.461blog.cn/#/function)
-* [ThinkPHP学习笔记](http://php.docs.461blog.cn/#/tp6)
+* [PHP学习笔记](http://php.docs.461blog.cn/#/php)  
+* [Uni-App跨平台学习笔记](http://php.docs.461blog.cn/#/uniapp)  
+* [Vue学习笔记](http://php.docs.461blog.cn/#/vue)  
+* [PHP函数学习笔记](http://php.docs.461blog.cn/#/function)  
+* [ThinkPHP学习笔记](http://php.docs.461blog.cn/#/tp6)  
 其他类目：
-* [JavaScript学习笔记](http://php.docs.461blog.cn/#/js)
+* [JavaScript学习笔记](http://php.docs.461blog.cn/#/js)  
+* [信息学奥赛(C++)学习笔记](http://php.docs.461blog.cn/#/noi)  
+
 ### 捐赠
-捐赠具体请联系 不断同学 
+捐赠具体请联系 不断同学 ，在此提前感谢您对我的支持！
